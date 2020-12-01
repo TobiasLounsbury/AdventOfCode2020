@@ -9,7 +9,7 @@ For both problems I used roughly the same approach. To sort the data first becau
 ```
 Time to sort: 2.288818359375E-5μs
 Solution: 633 + 1387 = 2020
-Answer: 877971
+Answer: 8****1
 Time to solve: 3.7908554077148E-5μs
 Total Time: 7.8916549682617E-5μs
 ```
@@ -17,7 +17,7 @@ Total Time: 7.8916549682617E-5μs
 ```
 Time to sort: 2.1934509277344E-5μs
 Solution: 264 + 867 + 889 = 2020
-Answer: 203481432
+Answer: 2*******2
 Time to solve: 1.2874603271484E-5μs
 Total Time: 5.1021575927734E-5μs
 ```
